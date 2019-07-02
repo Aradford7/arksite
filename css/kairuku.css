@@ -93,7 +93,8 @@ p{
 @media(max-width: 2000px){
     .ark-hero{
         background-image: url(../images/hero.png);
-        height: 40vh;
+        object-fit:contain;
+        height: 50vh;
         max-width: 100%;
     }
     .hero-text{
@@ -288,7 +289,7 @@ p{
     
 }
 
-@media(max-width: 617px){
+@media(max-width: 763px){
     .ark-hero{
         background-image: url(../images/hero.png);
         height: 200px;
@@ -509,7 +510,7 @@ p{
     .button-bottom {
         position: absolute;
         left: 50%;
-        bottom: 6%;32
+        bottom: 6%;
         transform: translate(-50%, 50%);
     }
     .card-500 {
