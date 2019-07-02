@@ -51,9 +51,45 @@ p{
     position: relative;
     z-index: 10;
 }
+.services .service-item .fa {
+    width: 110px;
+    height: 110px;
+    color: white;
+    background: dodgerblue;
+    font-size: 45px;
+    padding-top: 25px;
+    border-radius: 100px;
+    margin-top: -40px;
+    margin-bottom: 30px;
+    border: 5px solid white;
+    transition: all 0.4s;
+}
+.services .service-item .fab {
+    width: 110px;
+    height: 110px;
+    color: white;
+    background: dodgerblue;
+    font-size: 45px;
+    padding-top: 25px;
+    border-radius: 100px;
+    margin-top: -40px;
+    margin-bottom: 30px;
+    border: 5px solid white;
+    transition: all 0.4s;
+}
 .shadow-hover {
     transition: all 0.4s linear;
 }
+.card-500 {
+    height: 500px;
+}
+.button-bottom {
+    position: absolute;
+    left: 50%;
+    bottom: 8%;
+    transform: translate(-50%, 50%);
+}
+/* Responsive */
 @media(max-width: 2000px){
     .ark-hero{
         background-image: url(../images/hero.png);
@@ -76,6 +112,21 @@ p{
         left: 50%;
         transform: translate(-50%, -50%);
         color: white;
+    }
+    .col-xl-4 {
+        -ms-flex: 0 0 33.333333%;
+        flex: 0 0 33.333333%;
+        max-width: 33.333333%;
+        font-size: 0.7rem;
+    }
+    .button-bottom {
+        position: absolute;
+        left: 50%;
+        bottom: 8%;
+        transform: translate(-50%, 50%);
+    }
+    .card-500 {
+        height: 554px;
     }
 
 
@@ -107,11 +158,21 @@ p{
     .container{
         max-width: 900px;
     }
-    .p{
+    .col-xl-4 {
+        -ms-flex: 0 0 33.333333%;
+        flex: 0 0 33.333333%;
+        max-width: 33.333333%;
         font-size: 0.8rem;
     }
-    
-
+    .button-bottom {
+        position: absolute;
+        left: 50%;
+        bottom: 5%;
+        transform: translate(-50%, 50%);
+    }
+    .card-500 {
+        height: 555px;
+    }
 }
 @media(max-width: 1024px){
     .ark-hero{
@@ -137,6 +198,21 @@ p{
         transform: translate(-50%, -50%);
         color: white;
     }
+    .col-xl-4 {
+        -ms-flex: 0 0 33.333333%;
+        flex: 0 0 33.333333%;
+        max-width: 33.333333%;
+        font-size: 0.8rem;
+    }
+    .button-bottom {
+        position: absolute;
+        left: 50%;
+        bottom: 8%;
+        transform: translate(-50%, 50%);
+    }
+    .card-500 {
+        height: 554px;
+    }
 }
 @media(max-width: 1000px){
     .ark-hero{
@@ -152,6 +228,21 @@ p{
         left: 50%;
         transform: translate(-50%,50%);
         color:white;
+    }
+    .col-xl-4 {
+        -ms-flex: 0 0 33.333333%;
+        flex: 0 0 33.333333%;
+        max-width: 33.333333%;
+        font-size: 0.8rem;
+    }
+    .button-bottom {
+        position: absolute;
+        left: 50%;
+        bottom: 8%;
+        transform: translate(-50%, 50%);
+    }
+    .card-500 {
+        height: 554px;
     }
     
 }
@@ -179,8 +270,24 @@ p{
         transform: translate(-50%, -50%);
         color: white;
     }
+    .col-xl-4 {
+        -ms-flex: 0 0 33.333333%;
+        flex: 0 0 33.333333%;
+        max-width: 33.333333%;
+        font-size: 0.8rem;
+    }
+    .button-bottom {
+        position: absolute;
+        left: 50%;
+        bottom: 8%;
+        transform: translate(-50%, 50%);
+    }
+    .card-500 {
+        height: 554px;
+    }
     
 }
+
 @media(max-width: 617px){
     .ark-hero{
         background-image: url(../images/hero.png);
@@ -203,6 +310,21 @@ p{
         left: 50%;
         transform: translate(-50%, -50%);
         color: white;
+    }
+    .col-xl-4 {
+        -ms-flex: 0 0 33.333333%;
+        flex: 1 0 50.3%;
+        max-width: 100%;
+        font-size: 0.8rem;
+    }
+    .button-bottom {
+        position: absolute;
+        left: 50%;
+        bottom: 6%;
+        transform: translate(-50%, 50%);
+    }
+    .card-500 {
+        height: 725px;
     }
    
 }
@@ -230,6 +352,21 @@ p{
         left: 50%;
         transform: translate(-50%, -50%);
         color: white;
+    }
+    .col-xl-4 {
+        -ms-flex: 0 0 33.333333%;
+        flex: 1 0 50.3%;
+        max-width: 100%;
+        font-size: 0.8rem;
+    }
+    .button-bottom {
+        position: absolute;
+        left: 50%;
+        bottom: 6%;
+        transform: translate(-50%, 50%);
+    }
+    .card-500 {
+        height: 725px;
     }
    
 }
@@ -283,6 +420,21 @@ p{
         transform: translate(-50%, -50%);
         color: white;
     }
+    .col-xl-4 {
+        -ms-flex: 0 0 33.333333%;
+        flex: 1 0 50.3%;
+        max-width: 100%;
+        font-size: 1rem;
+    }
+    .button-bottom {
+        position: absolute;
+        left: 50%;
+        bottom: 6%;
+        transform: translate(-50%, 50%);
+    }
+    .card-500 {
+        height: 725px;
+    }
 }
 @media(max-width: 411px){
     .ark-hero{
@@ -308,8 +460,20 @@ p{
         transform: translate(-50%, -50%);
         color: white;
     }
-    .p{
-        font-size: 0.5rem;
+    .col-xl-4 {
+        -ms-flex: 0 0 33.333333%;
+        flex: 1 0 50.3%;
+        max-width: 100%;
+        font-size: 1.2rem;
+    }
+    .button-bottom {
+        position: absolute;
+        left: 50%;
+        bottom: 6%;
+        transform: translate(-50%, 50%);
+    }
+    .card-500 {
+        height: 725px;
     }
 }
 @media(max-width: 375px){
@@ -320,7 +484,7 @@ p{
         min-height: 135px;
     }
     .hero-text{
-        font-size: 0.7rem;
+        font-size: 0.4rem;
         font-weight: 400;
         top: 10%;
         left: 50%;
@@ -336,8 +500,20 @@ p{
         transform: translate(-50%, -50%);
         color: white;
     }
-    .p{
-        font-size: 0.6rem;
+    .col-xl-4 {
+        -ms-flex: 0 0 33.333333%;
+        flex: 1 0 50.3%;
+        max-width: 100%;
+        font-size: 1.2rem;
+    }
+    .button-bottom {
+        position: absolute;
+        left: 50%;
+        bottom: 6%;32
+        transform: translate(-50%, 50%);
+    }
+    .card-500 {
+        height: 725px;
     }
 }
 @media(max-width: 320px){
@@ -358,14 +534,26 @@ p{
     .hero-text-sub {
         text-align: center;
         position: absolute;
-        font-size: 0.4rem;
+        font-size: 0.5rem;
         top: 63%;
         left: 50%;
         transform: translate(-50%, -50%);
         color: white;
     }
-    .p{
-        font-size: 0.8rem;
+    .col-xl-4 {
+        -ms-flex: 0 0 33.333333%;
+        flex: 1 0 50.3%;
+        max-width: 100%;
+        font-size: 1rem;
+    }
+    .button-bottom {
+        position: absolute;
+        left: 50%;
+        bottom: 6%;
+        transform: translate(-50%, 50%);
+    }
+    .card-500 {
+        height: 600px;
     }
     
 }
