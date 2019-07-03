@@ -89,6 +89,13 @@ p{
     bottom: 8%;
     transform: translate(-50%, 50%);
 }
+footer {
+    position: relative;
+    height: 100px;
+    bottom: 0;
+    width: 100%;
+    padding-top: 25px;
+}
 /* Responsive */
 @media(max-width: 2000px){
     .ark-hero{
@@ -128,6 +135,14 @@ p{
     }
     .card-500 {
         height: 554px;
+    }
+    .footer {
+        position: absolute;
+        left: 0%;
+        height: 100px;
+        top: 273%;
+        width: 100%;
+        padding-top: 25px;
     }
 
 
@@ -174,6 +189,7 @@ p{
     .card-500 {
         height: 555px;
     }
+    
 }
 @media(max-width: 1024px){
     .ark-hero{
@@ -214,6 +230,14 @@ p{
     .card-500 {
         height: 554px;
     }
+    .footer {
+        position: absolute;
+        left: 0%;
+        height: 100px;
+        top: 126rem;
+        width: 100%;
+        padding-top: 25px;
+    }
 }
 @media(max-width: 1000px){
     .ark-hero{
@@ -244,6 +268,14 @@ p{
     }
     .card-500 {
         height: 554px;
+    }
+    .footer {
+        position: absolute;
+        left: 0%;
+        height: 100px;
+        top: 140rem;
+        width: 100%;
+        padding-top: 25px;
     }
     
 }
@@ -286,6 +318,14 @@ p{
     .card-500 {
         height: 554px;
     }
+    .footer {
+        position: absolute;
+        left: 0%;
+        height: 100px;
+        top: 132rem;
+        width: 100%;
+        padding-top: 25px;
+    }
     
 }
 
@@ -326,6 +366,14 @@ p{
     }
     .card-500 {
         height: 725px;
+    }
+    .footer {
+        position: absolute;
+        left: 0%;
+        height: 100px;
+        top: 321rem;
+        width: 100%;
+        padding-top: 25px;
     }
    
 }
@@ -369,6 +417,14 @@ p{
     .card-500 {
         height: 725px;
     }
+    .footer {
+        position: absolute;
+        left: 0%;
+        height: 100px;
+        top: 649%;
+        width: 100%;
+        padding-top: 25px;
+    }
    
 }
 @media(max-width: 576px){
@@ -395,6 +451,15 @@ p{
         transform: translate(-50%, -50%);
         color: white;
     }
+    .footer {
+        position: absolute;
+        left: 0%;
+        height: 100px;
+        top: 323rem;
+        width: 100%;
+        padding-top: 25px;
+    }
+    
     
 }
 @media(max-width: 503px){
@@ -436,8 +501,16 @@ p{
     .card-500 {
         height: 725px;
     }
+    .footer {
+        position: absolute;
+        left: 0%;
+        height: 100px;
+        top: 333rem;
+        width: 100%;
+        padding-top: 25px;
+    }
 }
-@media(max-width: 411px){
+@media(max-width: 411px,){
     .ark-hero{
         background-image: url(../images/hero.png);
         max-width: 100%;
@@ -475,6 +548,14 @@ p{
     }
     .card-500 {
         height: 725px;
+    }
+    .footer {
+        position: absolute;
+        left: 0%;
+        height: 100px;
+        top: 343rem;
+        width: 100%;
+        padding-top: 25px;
     }
 }
 @media(max-width: 375px){
@@ -516,6 +597,24 @@ p{
     .card-500 {
         height: 725px;
     }
+    .footer {
+        position: absolute;
+        left: 0%;
+        height: 100px;
+        top: 337rem;
+        width: 100%;
+        padding-top: 25px;
+    }
+}
+@media(max-width:360px){
+    .footer {
+        position: absolute;
+        left: 0%;
+        height: 100px;
+        top: 343rem;
+        width: 100%;
+        padding-top: 25px;
+    }
 }
 @media(max-width: 320px){
     .ark-hero{
@@ -555,6 +654,14 @@ p{
     }
     .card-500 {
         height: 600px;
+    }
+    .footer {
+        position: absolute;
+        left: 0%;
+        height: 100px;
+        top: 905%;
+        width: 100%;
+        padding-top: 25px;
     }
     
 }
