@@ -101,6 +101,29 @@ footer {
     width: 100%;
     padding-top: 25px;
 }
+.server-title {
+    padding-bottom: .75rem;
+    text-align: center;
+}
+.server-address {
+    font-weight: 300;
+    font-size: 1.25rem;
+    padding-bottom: 0.1rem;
+    text-align: center;
+}
+.card-body {
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    padding: 1.25rem;
+    height: 12rem;
+}
+.button-bottom-server-card {
+    position: absolute;
+    left: 50%;
+    bottom: 15%;
+    transform: translate(-50%, 50%);
+}
+
 /* Responsive */
 @media(max-width: 4615px){
     .ark-hero{
@@ -387,7 +410,7 @@ footer {
         position: absolute;
         left: 0%;
         height: 100px;
-        top:144rem;
+        top: 137rem;
         width: 100%;
         padding-top: 25px;
     }
@@ -489,7 +512,7 @@ footer {
         position: absolute;
         left: 0%;
         height: 100px;
-        top:128rem;
+        top: 134rem;
         width: 100%;
         padding-top: 25px;
     }
@@ -589,7 +612,7 @@ footer {
         position: absolute;
         left: 0%;
         height: 100px;
-        top:140rem;
+        top: 134rem;
         width: 100%;
         padding-top: 25px;
     }
@@ -737,7 +760,7 @@ footer {
         position: absolute;
         left: 0%;
         height: 100px;
-        top: 143rem;
+        top: 137rem;
         width: 100%;
         padding-top: 25px;
     }
@@ -809,7 +832,7 @@ footer {
         -ms-flex: 0 0 33.333333%;
         flex: 0 0 33.333333%;
         max-width: 33.333333%;
-        font-size: 0.8rem;
+        font-size: 0.7rem;
     }
     .button-bottom {
         position: absolute;
@@ -824,7 +847,7 @@ footer {
         position: absolute;
         left: 0%;
         height: 100px;
-        top: 167rem;
+        top: 147rem;
         width: 100%;
         padding-top: 25px;
     }
@@ -858,7 +881,7 @@ footer {
         -ms-flex: 0 0 33.333333%;
         flex: 0 0 33.333333%;
         max-width: 33.333333%;
-        font-size: 0.8rem;
+        font-size: 0.7rem;
     }
     .button-bottom {
         position: absolute;
@@ -1041,7 +1064,7 @@ footer {
         -ms-flex: 0 0 33.333333%;
         flex: 1 0 50.3%;
         max-width: 100%;
-        font-size: 1rem;
+        font-size: 1.2rem;
     }
     .button-bottom {
         position: absolute;
@@ -1195,7 +1218,7 @@ footer {
         -ms-flex: 0 0 33.333333%;
         flex: 1 0 50.3%;
         max-width: 100%;
-        font-size: 1rem;
+        font-size: 0.9rem;
     }
     .button-bottom {
         position: absolute;
