@@ -101,6 +101,15 @@ footer {
     width: 100%;
     padding-top: 25px;
 }
+.footer2 {
+    position: absolute;
+    height: 100px;
+    left: 0%;
+    bottom: 0;
+    width: 100%;
+    padding-top: 25px;
+}
+
 .server-title {
     padding-bottom: .75rem;
     text-align: center;
@@ -116,6 +125,12 @@ footer {
     flex: 1 1 auto;
     padding: 1.25rem;
     height: 12rem;
+}
+.card-body-settings {
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    padding: 1.25rem;
+    height: 15rem;
 }
 .button-bottom-server-card {
     position: absolute;
@@ -172,6 +187,14 @@ footer {
         width: 100%;
         padding-top: 25px;
     }
+    .footer2{
+        position: absolute;
+        left: 0%;
+        height: 100px;
+        top: 140rem;
+        width: 100%;
+        padding-top: 25px;
+    }
 }
 @media(max-width: 4000px){
     .ark-hero{
@@ -217,6 +240,14 @@ footer {
         left: 0%;
         height: 100px;
         top: 124%;
+        width: 100%;
+        padding-top: 25px;
+    }
+    .footer2{
+        position: absolute;
+        left: 0%;
+        height: 100px;
+        top: 147rem;
         width: 100%;
         padding-top: 25px;
     }
@@ -365,6 +396,7 @@ footer {
         padding-top: 25px;
     }
 }
+
 @media(min-width: 1400px){
     .ark-hero{
         background-image: url(../images/hero.png);
@@ -410,7 +442,15 @@ footer {
         position: absolute;
         left: 0%;
         height: 100px;
-        top: 137rem;
+        top: 144rem;
+        width: 100%;
+        padding-top: 25px;
+    }
+    .footer2{
+        position: absolute;
+        left: 0%;
+        height: 100px;
+        top: -6rem;
         width: 100%;
         padding-top: 25px;
     }
@@ -466,6 +506,14 @@ footer {
         width: 100%;
         padding-top: 25px;
     }
+    .footer2{
+        position: absolute;
+        left: 0%;
+        height: 100px;
+        top: 158rem;
+        width: 100%;
+        padding-top: 25px;
+    }
 }
 @media(max-width: 1440px){
     .ark-hero{
@@ -512,61 +560,20 @@ footer {
         position: absolute;
         left: 0%;
         height: 100px;
-        top: 134rem;
+        top: 270%;
         width: 100%;
         padding-top: 25px;
     }
-}
-@media(max-width: 1400px){
-    .ark-hero{
-        background-image: url(../images/hero.png);
-        height: 40vh;
-        max-width: 100%;
-    }
-    .hero-text{
-        font-size: 2.1rem;
-        font-weight: 400;
-        bottom: 55%;
-        left: 50%;
-        transform: translate(-50%,50%);
-        color:white;
-    }
-    .hero-text-sub {
-        text-align: center;
-        position: absolute;
-        font-size: 1.5rem;
-        top: 68%;
-        left: 50%;
-        transform: translate(-50%, -50%);
-        color: white;
-    }
-    .container{
-        max-width: 900px;
-    }
-    .col-xl-4 {
-        -ms-flex: 0 0 33.333333%;
-        flex: 0 0 33.333333%;
-        max-width: 33.333333%;
-        font-size: 0.8rem;
-    }
-    .button-bottom {
-        position: absolute;
-        left: 50%;
-        bottom: 5%;
-        transform: translate(-50%, 50%);
-    }
-    .card-500 {
-        height: 555px;
-    }
-    .footer {
+    .footer2{
         position: absolute;
         left: 0%;
         height: 100px;
-        top:128rem;
+        top: 105rem;
         width: 100%;
         padding-top: 25px;
     }
 }
+
 @media(max-width: 1399px){
     .ark-hero{
         background-image: url(../images/hero.png);
@@ -808,7 +815,15 @@ footer {
         position: absolute;
         left: 0%;
         height: 100px;
-        top: 130rem;
+        top: 128rem;
+        width: 100%;
+        padding-top: 25px;
+    }
+    .footer2 {
+        position: absolute;
+        left: 0%;
+        height: 100px;
+        top: 17rem;
         width: 100%;
         padding-top: 25px;
     }
@@ -852,6 +867,9 @@ footer {
         padding-top: 25px;
     }
     
+}
+.card-max-height {
+    height: 100%;
 }
 @media(max-width: 800px){
     .ark-hero{
@@ -897,6 +915,14 @@ footer {
         left: 0%;
         height: 100px;
         top: 132rem;
+        width: 100%;
+        padding-top: 25px;
+    }
+    .footer2{
+        position: absolute;
+        left: 0%;
+        height: 100px;
+        top: 5rem;
         width: 100%;
         padding-top: 25px;
     }
@@ -1083,6 +1109,14 @@ footer {
         width: 100%;
         padding-top: 25px;
     }
+    .footer2 {
+        position: absolute;
+        left: 0%;
+        height: 100px;
+        top: -56rem;
+        width: 100%;
+        padding-top: 25px;
+    }
 }
 @media(max-width: 411px,){
     .ark-hero{
@@ -1128,6 +1162,14 @@ footer {
         left: 0%;
         height: 100px;
         top: 343rem;
+        width: 100%;
+        padding-top: 25px;
+    }
+    .footer2 {
+        position: absolute;
+        left: 0%;
+        height: 100px;
+        top: -56rem;
         width: 100%;
         padding-top: 25px;
     }
@@ -1179,6 +1221,14 @@ footer {
         width: 100%;
         padding-top: 25px;
     }
+    .footer2 {
+        position: absolute;
+        left: 0%;
+        height: 100px;
+        top: -62rem;
+        width: 100%;
+        padding-top: 25px;
+    }
 }
 @media(max-width:360px){
     .footer {
@@ -1186,6 +1236,14 @@ footer {
         left: 0%;
         height: 100px;
         top: 330rem;
+        width: 100%;
+        padding-top: 25px;
+    }
+    .footer2{
+        position: absolute;
+        left: 0%;
+        height: 100px;
+        top: -61rem;
         width: 100%;
         padding-top: 25px;
     }
@@ -1234,6 +1292,14 @@ footer {
         left: 0%;
         height: 100px;
         top:311rem;
+        width: 100%;
+        padding-top: 25px;
+    }
+    .footer2 {
+        position: absolute;
+        left: 0%;
+        height: 100px;
+        top: -43rem;
         width: 100%;
         padding-top: 25px;
     }
