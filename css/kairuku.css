@@ -3,7 +3,7 @@ p{
     margin-bottom: 1rem;
 }
 .ark-hero{
-    background-image: url(../images/hero.png);
+    background-image: url(../images/PatreonBanner.png);
     height: 50vh;
     background-position: center;
     background-repeat: no-repeat;
@@ -142,9 +142,9 @@ footer {
 /* Responsive */
 @media(max-width: 4615px){
     .ark-hero{
-        background-image: url(../images/hero.png);
+        background-image: url(../images/PatreonBanner.png);
         object-fit:contain;
-        height: 40vh;
+        height: 50vh;
         max-width: 100%;
     }
     .hero-text{
@@ -198,9 +198,9 @@ footer {
 }
 @media(max-width: 4000px){
     .ark-hero{
-        background-image: url(../images/hero.png);
+        background-image: url(../images/PatreonBanner.png);
         object-fit:contain;
-        height: 40vh;
+        height: 50vh;
         max-width: 100%;
     }
     .hero-text{
@@ -254,9 +254,9 @@ footer {
 }
 @media(max-width: 3000px){
     .ark-hero{
-        background-image: url(../images/hero.png);
+        background-image: url(../images/PatreonBanner.png);
         object-fit:contain;
-        height: 40vh;
+        height: 50vh;
         max-width: 100%;
     }
     .hero-text{
@@ -302,9 +302,9 @@ footer {
 }
 @media(max-width: 2000px){
     .ark-hero{
-        background-image: url(../images/hero.png);
+        background-image: url(../images/PatreonBanner.png);
         object-fit:contain;
-        height: 40vh;
+        height: 50vh;
         max-width: 100%;
     }
     .hero-text{
@@ -350,9 +350,9 @@ footer {
 }
 @media(max-width: 1876px,){
     .ark-hero{
-        background-image: url(../images/hero.png);
+        background-image: url(../images/PatreonBanner.png);
         object-fit:contain;
-        height: 40vh;
+        height: 50vh;
         max-width: 100%;
     }
     .hero-text{
@@ -399,8 +399,8 @@ footer {
 
 @media(min-width: 1400px){
     .ark-hero{
-        background-image: url(../images/hero.png);
-        height: 40vh;
+        background-image: url(../images/PatreonBanner.png);
+        height: 50vh;
         max-width: 100%;
     }
     .hero-text{
@@ -442,7 +442,7 @@ footer {
         position: absolute;
         left: 0%;
         height: 100px;
-        top: 144rem;
+        top: 144em;
         width: 100%;
         padding-top: 25px;
     }
@@ -459,8 +459,8 @@ footer {
 }
 @media(max-width: 1400px){
     .ark-hero{
-        background-image: url(../images/hero.png);
-        height: 40vh;
+        background-image: url(../images/PatreonBanner.png);
+        height: 50vh;
         max-width: 100%;
     }
     .hero-text{
@@ -502,7 +502,7 @@ footer {
         position: absolute;
         left: 0%;
         height: 100px;
-        top:128rem;
+        top: 148rem;
         width: 100%;
         padding-top: 25px;
     }
@@ -517,8 +517,8 @@ footer {
 }
 @media(max-width: 1440px){
     .ark-hero{
-        background-image: url(../images/hero.png);
-        height: 40vh;
+        background-image: url(../images/PatreonBanner.png);
+        height: 50vh;
         max-width: 100%;
     }
     .hero-text{
@@ -560,7 +560,7 @@ footer {
         position: absolute;
         left: 0%;
         height: 100px;
-        top: 270%;
+        top: 144em;
         width: 100%;
         padding-top: 25px;
     }
@@ -576,8 +576,8 @@ footer {
 
 @media(max-width: 1399px){
     .ark-hero{
-        background-image: url(../images/hero.png);
-        height: 40vh;
+        background-image: url(../images/PatreonBanner.png);
+        height: 50vh;
         max-width: 100%;
     }
     .hero-text{
@@ -619,15 +619,15 @@ footer {
         position: absolute;
         left: 0%;
         height: 100px;
-        top: 134rem;
+        top: 144em;
         width: 100%;
         padding-top: 25px;
     }
 }
 @media(max-width: 1200px){
     .ark-hero{
-        background-image: url(../images/hero.png);
-        height: 40vh;
+        background-image: url(../images/PatreonBanner.png);
+        height: 50vh;
         max-width: 100%;
     }
     .hero-text{
@@ -669,15 +669,15 @@ footer {
         position: absolute;
         left: 0%;
         height: 100px;
-        top: 130rem;
+        top: 139rem;
         width: 100%;
         padding-top: 25px;
     }  
 }
 @media(max-width: 1196px){
     .ark-hero{
-        background-image: url(../images/hero.png);
-        height: 40vh;
+        background-image: url(../images/PatreonBanner.png);
+        height: 50vh;
         max-width: 100%;
     }
     .hero-text{
@@ -719,16 +719,16 @@ footer {
         position: absolute;
         left: 0%;
         height: 100px;
-        top: 143rem;
+        top: 149em;
         width: 100%;
         padding-top: 25px;
     }
 }
 @media(max-width: 1090px){
     .ark-hero{
-        background-image: url(../images/hero.png);
+        background-image: url(../images/PatreonBanner.png);
         object-fit:contain;
-        height: 40vh;
+        height: 50vh;
         max-width: 100%;
     }
     .hero-text{
@@ -767,15 +767,17 @@ footer {
         position: absolute;
         left: 0%;
         height: 100px;
-        top: 137rem;
+        top: 149em;
         width: 100%;
         padding-top: 25px;
     }
 }
+
+/* Ipad Pro */
 @media(max-width: 1024px){
     .ark-hero{
-        background-image: url(../images/hero.png);
-        height: 20vh;
+        background-image: url(../images/PatreonBanner.png);
+        height: 30vh;
         max-width: 100%;
         min-height: 300px;
     }
@@ -815,7 +817,7 @@ footer {
         position: absolute;
         left: 0%;
         height: 100px;
-        top: 128rem;
+        top: 137em;
         width: 100%;
         padding-top: 25px;
     }
@@ -830,9 +832,9 @@ footer {
 }
 @media(max-width: 1000px){
     .ark-hero{
-        background-image: url(../images/hero.png);
+        background-image: url(../images/PatreonBanner.png);
         min-height: 300px;
-        height: 40vh;
+        height: 20vh;
         max-width: 100%; 
     }
     .hero-text{
@@ -862,7 +864,7 @@ footer {
         position: absolute;
         left: 0%;
         height: 100px;
-        top: 147rem;
+        top: 142em;
         width: 100%;
         padding-top: 25px;
     }
@@ -871,9 +873,11 @@ footer {
 .card-max-height {
     height: 100%;
 }
+
+/* Ipad */
 @media(max-width: 800px){
     .ark-hero{
-        background-image: url(../images/hero.png);
+        background-image: url(../images/PatreonBanner.png);
         min-height: 200px;
         height: 200px;
         max-width: 100%;
@@ -914,7 +918,7 @@ footer {
         position: absolute;
         left: 0%;
         height: 100px;
-        top: 132rem;
+        top: 135em;
         width: 100%;
         padding-top: 25px;
     }
@@ -931,7 +935,7 @@ footer {
 
 @media(max-width: 763px){
     .ark-hero{
-        background-image: url(../images/hero.png);
+        background-image: url(../images/PatreonBanner.png);
         height: 200px;
         max-width: 100%;
     }
@@ -971,7 +975,7 @@ footer {
         position: absolute;
         left: 0%;
         height: 100px;
-        top: 321rem;
+        top: 324em;
         width: 100%;
         padding-top: 25px;
     }
@@ -979,11 +983,11 @@ footer {
 }
 @media(max-width: 580px){
     .ark-hero{
-        background-image: url(../images/hero.png);
+        background-image: url(../images/PatreonBanner.png);
         max-width: 100%;
         height: 142px;
         min-height: 135px;
-        height: 40vh;
+        height: 50vh;
     }
     .hero-text{
         font-size: 1.5rem;
@@ -1029,7 +1033,7 @@ footer {
 }
 @media(max-width: 576px){
     .ark-hero{
-        background-image: url(../images/hero.png);
+        background-image: url(../images/PatreonBanner.png);
         max-width: 100%;
         height: 142px;
         min-height: 135px;
@@ -1064,7 +1068,7 @@ footer {
 }
 @media(max-width: 503px){
     .ark-hero{
-        background-image: url(../images/hero.png);
+        background-image: url(../images/PatreonBanner.png);
         max-width: 100%;
         height: 142px;
         min-height: 135px;
@@ -1105,7 +1109,7 @@ footer {
         position: absolute;
         left: 0%;
         height: 100px;
-        top: 324rem;
+        top: 326em;
         width: 100%;
         padding-top: 25px;
     }
@@ -1120,7 +1124,7 @@ footer {
 }
 @media(max-width: 411px,){
     .ark-hero{
-        background-image: url(../images/hero.png);
+        background-image: url(../images/PatreonBanner.png);
         max-width: 100%;
         height: 142px;
         min-height: 135px;
@@ -1176,7 +1180,7 @@ footer {
 }
 @media(max-width: 375px){
     .ark-hero{
-        background-image: url(../images/hero.png);
+        background-image: url(../images/PatreonBanner.png);
         max-width: 100%;
         height: 142px;
         min-height: 135px;
@@ -1217,7 +1221,7 @@ footer {
         position: absolute;
         left: 0%;
         height: 100px;
-        top: 330rem;
+        top: 333em;
         width: 100%;
         padding-top: 25px;
     }
@@ -1235,7 +1239,7 @@ footer {
         position: absolute;
         left: 0%;
         height: 100px;
-        top: 330rem;
+        top: 333em;
         width: 100%;
         padding-top: 25px;
     }
@@ -1250,7 +1254,7 @@ footer {
 }
 @media(max-width: 320px){
     .ark-hero{
-        background-image: url(../images/hero.png);
+        background-image: url(../images/PatreonBanner.png);
         max-width: 100%;
         height: 129px;
         min-height: 135px;
@@ -1291,7 +1295,7 @@ footer {
         position: absolute;
         left: 0%;
         height: 100px;
-        top:311rem;
+        top: 315em;
         width: 100%;
         padding-top: 25px;
     }
