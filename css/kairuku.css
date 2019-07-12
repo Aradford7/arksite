@@ -109,6 +109,22 @@ footer {
     width: 100%;
     padding-top: 25px;
 }
+.footer-patreon-server {
+    position: absolute;
+    height: 100px;
+    left: 0%;
+    bottom: 0;
+    width: 100%;
+    padding-top: 25px;
+}
+.footer-patreon-server-custom {
+    position: absolute;
+    height: 100px;
+    left: 0%;
+    bottom: 0;
+    width: 100%;
+    padding-top: 25px;
+}
 
 .server-title {
     padding-bottom: .75rem;
@@ -459,6 +475,14 @@ footer {
         left: 0%;
         height: 100px;
         top: 26em;
+        width: 100%;
+        padding-top: 25px;
+    }
+    .footer-patreon-server-custom {
+        position: absolute;
+        left: 0%;
+        height: 100px;
+        top: 14em;
         width: 100%;
         padding-top: 25px;
     }
@@ -853,6 +877,13 @@ footer {
         width: 100%;
         padding-top: 25px;
     }
+    .footer-patreon-server-custom {
+        position: absolute;
+        left: 0%;
+        height: 110em;
+        top: 10em;
+        width: 100%;
+    }
 }
 @media(max-width: 1000px){
     .ark-hero{
@@ -969,6 +1000,13 @@ footer {
         top: 31em;
         width: 100%;
         padding-top: 25px;
+    }
+    .footer-patreon-server-custom {
+        position: absolute;
+        left: 0%;
+        height: 110em;
+        top: -4em;
+        width: 100%;
     }
     
 }
@@ -1169,8 +1207,15 @@ footer {
         width: 100%;
         padding-top: 25px;
     }
+    .footer-patreon-server-custom {
+        position: absolute;
+        left: 0%;
+        height: 110em;
+        bottom: 1em;
+        width: 100%;
+    }
 }
-@media(max-width: 411px,){
+@media(max-width: 411px){
     .ark-hero{
         background-image: url(../images/PatreonBanner.png);
         max-width: 100%;
@@ -1224,6 +1269,13 @@ footer {
         top: -56rem;
         width: 100%;
         padding-top: 25px;
+    }
+    .footer-patreon-server-custom {
+        position: absolute;
+        left: 0%;
+        height: 110em;
+        bottom: 6em;
+        width: 100%;
     }
     
 }
@@ -1282,13 +1334,12 @@ footer {
         width: 100%;
         padding-top: 25px;
     }
-    .footer-patreon-server{
+    .footer-patreon-server-custom {
         position: absolute;
         left: 0%;
-        height: 100px;
-        top: 62em;
+        height: 110em;
+        bottom: 3em;
         width: 100%;
-        padding-top: 25px;
     }
 }
 @media(max-width:360px){
@@ -1307,6 +1358,13 @@ footer {
         top: -25em;
         width: 100%;
         padding-top: 25px;
+    }
+    .footer-patreon-server-custom {
+        position: absolute;
+        left: 0%;
+        height: 110em;
+        bottom: 0em;
+        width: 100%;
     }
 }
 @media(max-width: 320px){
@@ -1364,11 +1422,11 @@ footer {
         width: 100%;
         padding-top: 25px;
     }
-    .footer-patreon-server{
+    .footer-patreon-server-custom {
         position: absolute;
         left: 0%;
-        height: 100px;
-        top: 74em;
+        height: 110em;
+        bottom: -23em;
         width: 100%;
     }
       
