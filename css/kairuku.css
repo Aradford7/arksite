@@ -101,7 +101,7 @@ footer {
     width: 100%;
     padding-top: 25px;
 }
-.footer2 {
+.footer-public-server {
     position: absolute;
     height: 100px;
     left: 0%;
@@ -130,7 +130,7 @@ footer {
     -ms-flex: 1 1 auto;
     flex: 1 1 auto;
     padding: 1.25rem;
-    height: 15rem;
+    height: 24rem;
 }
 .button-bottom-server-card {
     position: absolute;
@@ -183,15 +183,15 @@ footer {
         position: absolute;
         left: 0%;
         height: 100px;
-        top: 179rem;
+        top: 179em;
         width: 100%;
         padding-top: 25px;
     }
-    .footer2{
+    .footer-public-server{
         position: absolute;
         left: 0%;
         height: 100px;
-        top: 140rem;
+        top: 140em;
         width: 100%;
         padding-top: 25px;
     }
@@ -239,15 +239,15 @@ footer {
         position: absolute;
         left: 0%;
         height: 100px;
-        top: 124%;
+        top: 124em;
         width: 100%;
         padding-top: 25px;
     }
-    .footer2{
+    .footer-public-server{
         position: absolute;
         left: 0%;
         height: 100px;
-        top: 147rem;
+        top: 147em;
         width: 100%;
         padding-top: 25px;
     }
@@ -442,15 +442,23 @@ footer {
         position: absolute;
         left: 0%;
         height: 100px;
-        top: 144em;
+        top: 149em;
         width: 100%;
         padding-top: 25px;
     }
-    .footer2{
+    .footer-public-server{
         position: absolute;
         left: 0%;
         height: 100px;
-        top: -6rem;
+        top: 6em;
+        width: 100%;
+        padding-top: 25px;
+    }
+    .footer-patreon-server{
+        position: absolute;
+        left: 0%;
+        height: 100px;
+        top: 26em;
         width: 100%;
         padding-top: 25px;
     }
@@ -506,7 +514,7 @@ footer {
         width: 100%;
         padding-top: 25px;
     }
-    .footer2{
+    .footer-public-server{
         position: absolute;
         left: 0%;
         height: 100px;
@@ -560,15 +568,23 @@ footer {
         position: absolute;
         left: 0%;
         height: 100px;
-        top: 144em;
+        top: 150em;
         width: 100%;
         padding-top: 25px;
     }
-    .footer2{
+    .footer-public-server{
         position: absolute;
         left: 0%;
         height: 100px;
-        top: 105rem;
+        top: 5em;
+        width: 100%;
+        padding-top: 25px;
+    }
+    .footer-patreon-server{
+        position: absolute;
+        left: 0%;
+        height: 100px;
+        top: 25em;
         width: 100%;
         padding-top: 25px;
     }
@@ -619,7 +635,7 @@ footer {
         position: absolute;
         left: 0%;
         height: 100px;
-        top: 144em;
+        top: 151em;
         width: 100%;
         padding-top: 25px;
     }
@@ -719,7 +735,7 @@ footer {
         position: absolute;
         left: 0%;
         height: 100px;
-        top: 149em;
+        top: 154em;
         width: 100%;
         padding-top: 25px;
     }
@@ -817,15 +833,23 @@ footer {
         position: absolute;
         left: 0%;
         height: 100px;
-        top: 137em;
+        top: 142em;
         width: 100%;
         padding-top: 25px;
     }
-    .footer2 {
+    .footer-public-server {
         position: absolute;
         left: 0%;
         height: 100px;
-        top: 17rem;
+        top: 27em;
+        width: 100%;
+        padding-top: 25px;
+    }
+    .footer-patreon-server{
+        position: absolute;
+        left: 0%;
+        height: 100px;
+        top: 46em;
         width: 100%;
         padding-top: 25px;
     }
@@ -864,7 +888,15 @@ footer {
         position: absolute;
         left: 0%;
         height: 100px;
-        top: 142em;
+        top: 148em;
+        width: 100%;
+        padding-top: 25px;
+    }
+    .footer-public-server{
+        position: absolute;
+        left: 0%;
+        height: 100px;
+        top: 13em;
         width: 100%;
         padding-top: 25px;
     }
@@ -918,15 +950,23 @@ footer {
         position: absolute;
         left: 0%;
         height: 100px;
-        top: 135em;
+        top: 142em;
         width: 100%;
         padding-top: 25px;
     }
-    .footer2{
+    .footer-public-server{
         position: absolute;
         left: 0%;
         height: 100px;
-        top: 5rem;
+        top: 12em;
+        width: 100%;
+        padding-top: 25px;
+    }
+    .footer-patreon-server{
+        position: absolute;
+        left: 0%;
+        height: 100px;
+        top: 31em;
         width: 100%;
         padding-top: 25px;
     }
@@ -975,7 +1015,7 @@ footer {
         position: absolute;
         left: 0%;
         height: 100px;
-        top: 324em;
+        top: 333em;
         width: 100%;
         padding-top: 25px;
     }
@@ -1059,7 +1099,7 @@ footer {
         position: absolute;
         left: 0%;
         height: 100px;
-        top: 323rem;
+        top: 327rem;
         width: 100%;
         padding-top: 25px;
     }
@@ -1109,15 +1149,23 @@ footer {
         position: absolute;
         left: 0%;
         height: 100px;
-        top: 326em;
+        top: 338em;
         width: 100%;
         padding-top: 25px;
     }
-    .footer2 {
+    .footer-public-server {
         position: absolute;
         left: 0%;
         height: 100px;
-        top: -56rem;
+        top: -18em;
+        width: 100%;
+        padding-top: 25px;
+    }
+    .footer-patreon-server{
+        position: absolute;
+        left: 0%;
+        height: 100px;
+        top: 76em;
         width: 100%;
         padding-top: 25px;
     }
@@ -1169,7 +1217,7 @@ footer {
         width: 100%;
         padding-top: 25px;
     }
-    .footer2 {
+    .footer-public-server {
         position: absolute;
         left: 0%;
         height: 100px;
@@ -1177,6 +1225,7 @@ footer {
         width: 100%;
         padding-top: 25px;
     }
+    
 }
 @media(max-width: 375px){
     .ark-hero{
@@ -1221,15 +1270,23 @@ footer {
         position: absolute;
         left: 0%;
         height: 100px;
-        top: 333em;
+        top: 345em;
         width: 100%;
         padding-top: 25px;
     }
-    .footer2 {
+    .footer-public-server {
         position: absolute;
         left: 0%;
         height: 100px;
-        top: -62rem;
+        top: -24em;
+        width: 100%;
+        padding-top: 25px;
+    }
+    .footer-patreon-server{
+        position: absolute;
+        left: 0%;
+        height: 100px;
+        top: 62em;
         width: 100%;
         padding-top: 25px;
     }
@@ -1239,15 +1296,15 @@ footer {
         position: absolute;
         left: 0%;
         height: 100px;
-        top: 333em;
+        top: 347em;
         width: 100%;
         padding-top: 25px;
     }
-    .footer2{
+    .footer-public-server{
         position: absolute;
         left: 0%;
         height: 100px;
-        top: -61rem;
+        top: -25em;
         width: 100%;
         padding-top: 25px;
     }
@@ -1295,17 +1352,25 @@ footer {
         position: absolute;
         left: 0%;
         height: 100px;
-        top: 315em;
+        top: 331em;
         width: 100%;
         padding-top: 25px;
     }
-    .footer2 {
+    .footer-public-server {
         position: absolute;
         left: 0%;
         height: 100px;
-        top: -43rem;
+        top: -9em;
         width: 100%;
         padding-top: 25px;
     }
+    .footer-patreon-server{
+        position: absolute;
+        left: 0%;
+        height: 100px;
+        top: 74em;
+        width: 100%;
+    }
+      
     
 }
