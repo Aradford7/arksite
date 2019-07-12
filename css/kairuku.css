@@ -486,6 +486,13 @@ footer {
         width: 100%;
         padding-top: 25px;
     }
+    .footer-community-rules {
+        position: absolute;
+        left: 0%;
+        height: 110em;
+        top: 88em;
+        width: 100%;
+    }
    
     
 }
@@ -611,6 +618,13 @@ footer {
         top: 25em;
         width: 100%;
         padding-top: 25px;
+    }
+    .footer-community-rules {
+        position: absolute;
+        left: 0%;
+        height: 110em;
+        top: 86em;
+        width: 100%;
     }
 }
 
@@ -884,6 +898,13 @@ footer {
         top: 10em;
         width: 100%;
     }
+    .footer-community-rules {
+        position: absolute;
+        left: 0%;
+        height: 110em;
+        top: 94em;
+        width: 100%;
+    }
 }
 @media(max-width: 1000px){
     .ark-hero{
@@ -1006,6 +1027,13 @@ footer {
         left: 0%;
         height: 110em;
         top: -4em;
+        width: 100%;
+    }
+    .footer-community-rules {
+        position: absolute;
+        left: 0%;
+        height: 110em;
+        top: 124em;
         width: 100%;
     }
     
@@ -1214,6 +1242,13 @@ footer {
         bottom: 1em;
         width: 100%;
     }
+    .footer-community-rules {
+        position: absolute;
+        left: 0%;
+        height: 110em;
+        top: 56em;
+        width: 100%;
+    }
 }
 @media(max-width: 411px){
     .ark-hero{
@@ -1341,6 +1376,13 @@ footer {
         bottom: 3em;
         width: 100%;
     }
+    .footer-community-rules {
+        position: absolute;
+        left: 0%;
+        height: 110em;
+        top: 101em;
+        width: 100%;
+    }
 }
 @media(max-width:360px){
     .footer {
@@ -1364,6 +1406,13 @@ footer {
         left: 0%;
         height: 110em;
         bottom: 0em;
+        width: 100%;
+    }
+    .footer-community-rules {
+        position: absolute;
+        left: 0%;
+        height: 110em;
+        top: 119em;
         width: 100%;
     }
 }
@@ -1427,6 +1476,13 @@ footer {
         left: 0%;
         height: 110em;
         bottom: -23em;
+        width: 100%;
+    }
+    .footer-community-rules {
+        position: absolute;
+        left: 0%;
+        height: 110em;
+        top: 193em;
         width: 100%;
     }
       
