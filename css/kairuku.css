@@ -493,6 +493,13 @@ footer {
         top: 88em;
         width: 100%;
     }
+    .footer-public-rules {
+        position: absolute;
+        left: 0%;
+        height: 110em;
+        top: 20em;
+        width: 100%;
+    }
    
     
 }
@@ -624,6 +631,13 @@ footer {
         left: 0%;
         height: 110em;
         top: 86em;
+        width: 100%;
+    }
+    .footer-public-rules {
+        position: absolute;
+        left: 0%;
+        height: 110em;
+        top: 19em;
         width: 100%;
     }
 }
@@ -905,6 +919,13 @@ footer {
         top: 94em;
         width: 100%;
     }
+    .footer-public-rules {
+        position: absolute;
+        left: 0%;
+        height: 110em;
+        top: 20em;
+        width: 100%;
+    }
 }
 @media(max-width: 1000px){
     .ark-hero{
@@ -1034,6 +1055,13 @@ footer {
         left: 0%;
         height: 110em;
         top: 124em;
+        width: 100%;
+    }
+    .footer-public-rules {
+        position: absolute;
+        left: 0%;
+        height: 110em;
+        top: 26em;
         width: 100%;
     }
     
@@ -1249,6 +1277,13 @@ footer {
         top: 56em;
         width: 100%;
     }
+    .footer-public-rules {
+        position: absolute;
+        left: 0%;
+        height: 110em;
+        top: -108em;
+        width: 100%;
+    }
 }
 @media(max-width: 411px){
     .ark-hero{
@@ -1310,6 +1345,13 @@ footer {
         left: 0%;
         height: 110em;
         bottom: 6em;
+        width: 100%;
+    }
+    .footer-public-rules {
+        position: absolute;
+        left: 0%;
+        height: 110em;
+        top: -113em;
         width: 100%;
     }
     
@@ -1383,6 +1425,13 @@ footer {
         top: 101em;
         width: 100%;
     }
+    .footer-public-rules {
+        position: absolute;
+        left: 0%;
+        height: 110em;
+        top: -87em;
+        width: 100%;
+    }
 }
 @media(max-width:360px){
     .footer {
@@ -1413,6 +1462,13 @@ footer {
         left: 0%;
         height: 110em;
         top: 119em;
+        width: 100%;
+    }
+    .footer-public-rules {
+        position: absolute;
+        left: 0%;
+        height: 110em;
+        top: -78em;
         width: 100%;
     }
 }
@@ -1483,6 +1539,13 @@ footer {
         left: 0%;
         height: 110em;
         top: 193em;
+        width: 100%;
+    }
+    .footer-public-rules {
+        position: absolute;
+        left: 0%;
+        height: 110em;
+        top: -24em;
         width: 100%;
     }
       
